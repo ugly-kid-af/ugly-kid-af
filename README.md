@@ -10,5 +10,8 @@
 
 <h2 align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ugly-kid-af&theme=dark"/></h2>
 
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=ugly-kid-af&theme=redical">
+</p>  
 
 
