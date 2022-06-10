@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://i.imgur.com/4JQ70Bw.jpg" />
+</p>
+<br>
+<br>
 <h3 align="center">👋 I'm Saurav, Amateur developer.</h3>
 
 <h3>About me  <img src="https://komarev.com/ghpvc/?username=ugly-kid-af&style=flat-square" alt="ugly-kid-af" /></h3>
