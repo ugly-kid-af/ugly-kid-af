@@ -39,7 +39,7 @@
 <br>
 
 <p align="center">
-  <img src="https://i.imgur.com/1ZFOdvB.png" />
+  <img src="https://i.imgur.com/sffMtJn.png" />
 </p>
 
 UPI ID: 
