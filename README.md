@@ -49,13 +49,17 @@
   <img src="https://i.imgur.com/sffMtJn.png" />
 </p>
 
-UPI ID: 
+- UPI ID :  
 ```
 dwarmachine24@oksbi
 ```
-Patreon: 
-- https://www.patreon.com/join/uglykid24
 
-PayPal:
-- https://www.paypal.me/uglykid24
+- Bitcoin (BTC):  
+```
+3Pm6JtwqCuTfKe1Szn23C8ZutF32eFtzf9
+```
+
+- PayPal: https://www.paypal.me/uglykid24
+- Get early build access: https://www.patreon.com/join/uglykid24
+- Buy me a coffee: https://www.buymeacoffee.com/Uglykid/membership
 
