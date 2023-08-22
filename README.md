@@ -1,19 +1,18 @@
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
-
-<br>
-
 <div align="center">
 
 <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlsZHg3eGliNTBhOWYwZmU0Z3NxaWZzZnlsdHpkYTY3YmVwNXhleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/kAm4u0lhDCmXnugz6p/giphy.gif" width ="50">
   <br>
   
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=e05d44&size=20&lines=Hi+there!+Its+Saurav+here!;I'm+an+AOSP+Developer,;and+a+Web+Designer;I'm+also+studying+and+23+year+old" /></a>
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=e05d44&size=20&lines=Hi+there!+Its+Saurav+here!;I'm+an+AOSP+Developer,;and+a+Web+Designer;I'm+also+studying+and+23+year+old" /></a>
+
 </div>
+
+<br>
 
 <div>
 
-  <img align="left" alt="GIF" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="300">
+  <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="300">
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=ugly-kid-af&style=flat-square" alt="ugly-kid-af" /> 
@@ -26,7 +25,7 @@
 </p>
 
 <p align="left">
-  - 🏢 I am currently working on <a href="https://projectelixiros.com">Project Elixir</a> & <a href="https://ppui.site">PixelPlusUI</a> [Custom ROMs] 
+  - 🏢 I am currently working on <a href="https://projectelixiros.com">Project Elixir</a> & <a href="https://ppui.site">PixelPlusUI</a>
 </p> 
 
 <p align="left">
@@ -53,6 +52,7 @@
     <img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" height="40" alt="Git"/>
     <img src="https://user-images.githubusercontent.com/64439609/212556816-5f39489d-6cee-4f1c-997f-4d30a391287c.png" width="40" height="40" alt="Git"/>
     <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" alt="gcp" />
 
 <br>
 
@@ -67,7 +67,8 @@
 <div class= "container" align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=ugly-kid-af&&show_icons=true&count_private=true&hide_border=true&theme=auto"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugly-kid-af&hide_border=true&layout=compact&theme=auto"/> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ugly-kid-af&hide_border=true&theme=auto"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ugly-kid-af&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D"/>
 </div>
 
 <br>
