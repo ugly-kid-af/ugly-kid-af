@@ -12,7 +12,7 @@
 
 <div>
 
-  <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="300">
+  <img align="left" alt="GIF" src="https://i.imgur.com/hNycLOY.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="300">
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=ugly-kid-af&style=flat-square" alt="ugly-kid-af" /> 
