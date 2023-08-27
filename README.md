@@ -1,24 +1,15 @@
-<div align="center">
-
-<img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlsZHg3eGliNTBhOWYwZmU0Z3NxaWZzZnlsdHpkYTY3YmVwNXhleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/kAm4u0lhDCmXnugz6p/giphy.gif" width ="50">
-  <br>
-  
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=e05d44&size=20&lines=Hi+there!+Its+Saurav+here!;I'm+an+AOSP+Developer,;and+a+Web+Designer;I'm+also+studying+and+23+year+old" /></a>
-
-</div>
-
 <br>
-
 <div>
-
-  <img align="left" alt="GIF" src="https://i.imgur.com/hNycLOY.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="300">
-
+  <a align="left">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlsZHg3eGliNTBhOWYwZmU0Z3NxaWZzZnlsdHpkYTY3YmVwNXhleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/kAm4u0lhDCmXnugz6p/giphy.gif" width ="50"> <img align="center" src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=e05d44&size=20&lines=Hi+there!+Its+Saurav+here!;I'm+an+AOSP+Developer,;and+a+Web+Designer;I'm+also+studying+and+23+year+old" /> 
+  </a>
+    <img align="right" alt="GIF" src="https://i.imgur.com/hNycLOY.png" alt="My Avatar" height="300">
+</div>
+  
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=ugly-kid-af&style=flat-square" alt="ugly-kid-af" /> 
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
 </p>
-
 
 <p align="left">
   - 🏠 I am from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
@@ -42,8 +33,6 @@
   <a href="mailto:dwarmachine24@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/></a>
 </p>
 
-  </div>
-
 <br>
 
 - **Softwares and Tools**:
@@ -61,8 +50,6 @@
 ![CPU](https://img.shields.io/badge/AMD-Ryzen_5_3500-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 <br> 
 ![GPU](https://img.shields.io/badge/AMD-Radeon_Asus_Dual_RX_6600_8GB-ED1C24?style=for-the-badge&logo=amd&logoColor=white) 
-
-
 
 <div class= "container" align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=ugly-kid-af&&show_icons=true&count_private=true&hide_border=true&theme=auto"> 
